@@ -1,10 +1,14 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome to this sample portfolio!
+## Welcome to Hari Vardhan's portfolio!
 
+Welcome to this portfolio. Learn about me here!
+
+### E-mail
+ar.harivardhan@gmail.com
 
 #### Here are some example pages:
 
