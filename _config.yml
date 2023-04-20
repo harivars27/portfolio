@@ -29,7 +29,7 @@ twitter_username: harivardhan
 github_username:  harivars27
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
